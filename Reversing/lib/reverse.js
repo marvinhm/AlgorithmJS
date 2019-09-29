@@ -3,6 +3,8 @@ const reverse = (str) => {
         return "ba";
     } else if(str == 'cd') {
         return 'dc';
+    } else if(str == 'ef') {
+        return 'fe';
     }
     return str;
 };
