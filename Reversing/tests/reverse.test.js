@@ -24,4 +24,12 @@ describe('Reverse Tests', () => {
     it("function should take 'ef' and return 'fe'", () => {
         expect(reverse('ef')).toEqual('fe')
     });
+
+    it("function should take 'ef' and return 'fe'", () => {
+        expect(reverse('ef')).toEqual('fe')
+    });
+
+    it("function should take 'abc' and return 'cba'", () => {
+        expect(reverse('abc')).toEqual('cba');
+    })
 })
