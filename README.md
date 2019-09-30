@@ -3,11 +3,11 @@
 
 - Cohort grouping 
 - Shuffling 
-- ~~Reversing~~ ￼:thumbsup:
+- ~~Reversing~~ 
 - Find Duplicates 
 - Most frequent words 
 - Sorting 0s and 1s 
-- ~~Fizzy buzzer~~ ￼:thumbsup:
+- ~~Fizzy buzzer~~ 
 - Sorting 
 - Fibonacci 
 - Mechacoach Pairing 
