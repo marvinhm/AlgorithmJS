@@ -47,5 +47,10 @@ describe('Reverse Tests', () => {
 
     it("function should take 'mobamba' and return 'abmabom'", () => {
       expect(reverse('mobamba')).toEqual('abmabom');
-  })
+    })
+
+    it("function should keep first letter capitalised if there is a one given'", () => {
+      expect(reverse('Marvin')).toEqual('Nivram');
+    })
+
 })
