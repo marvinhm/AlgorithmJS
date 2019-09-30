@@ -1,5 +1,4 @@
 
-### Test driving some common algorithms in good old Vanilla JS. ###
 
 - Cohort grouping 
 - Shuffling 
