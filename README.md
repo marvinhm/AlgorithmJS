@@ -1,13 +1,10 @@
 
+## Algorithms ##
+Basic data structures, and how to write code that is more efficient. 
 
-- Cohort grouping 
-- Shuffling 
-- ~~Reversing~~ 
-- Find Duplicates 
-- Most frequent words 
-- Sorting 0s and 1s 
-- ~~Fizzy buzzer~~ 
-- Sorting 
-- Fibonacci 
-- Mechacoach Pairing 
-- Sub-sequence sum 
+#### Codebase
+* [JS]
+#### Test Framework
+* [Jest] - For unit testing purposes.
+#### Linter
+* [Prettier] - For linting purposes.
