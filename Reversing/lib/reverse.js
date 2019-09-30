@@ -1,11 +1,13 @@
 const reverse = (str) => {
-    if(str.length == 3) {
-        return str[2] + str[1] + str[0];
-    } else if(str.length == 2) {
-        return str[1] + str[0];
-    } 
-    
-    return str;
+  var string_length = str.length
+  if (string_length > 1) {
+    var new_string = "";
+    for(var i=string_length; i>0; i--) {
+      new_string+=str[i-1];
+    }
+    return new_string;
+  }
+  return str;
 };
 
 module.exports = reverse;
